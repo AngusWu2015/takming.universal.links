@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "GDZJE425YP.takming.mis.alumni.association.TMAA",
-                "paths": [ "/scss/*", "/test2/*", "/takming.universal.links/*"]
+                "paths": [ "/scss/*", "/test2/*"]
             }
         ]
     }
